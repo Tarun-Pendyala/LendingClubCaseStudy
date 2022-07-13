@@ -1,28 +1,30 @@
 # Project Name
-> Outline a brief description of your project.
+This is a case study on performing EDA analysis of lending business by considering the consumer and lender attributes to determine the scope of default and chargeoff scenario of loans
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+1. visualisation of Data
+2. cleaning of data
+3. Sorting of data
+4. determining the variables'
+5. univariate analysis
+6. Bivaraiate analysis
+7. inferneces
+8. Conclusion
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Data set is visualised which is provided by a lending business in it the data is mostly collected from customers based on lending pattern, loan applications, borrowing pattern etc..,
+Data is cleaned and checked for redundancy
+Analysing the Data using EDA concepts.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+1. small scale business units have the high tendency to deafult the loans
+2. Year on year interest rates keeps on rising
+3. small scale business loans are high compared to other purpose of loans.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
